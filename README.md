@@ -1,5 +1,6 @@
 # serdaripsum
 serdaripsum, sizin için bir Serdar Ortaç şarkısı oluşturur. Kaç paragraf istediğinizi belirtin yeter.
+Fikir, (camelipsum)[https://github.com/camelware/camel-ipsum-python]'u yazdiktan sonra (Liva Cengiz)[https://github.com/livacengiz] ile sohbet ederken çıkmıştır.
 
 kurmak için
 
