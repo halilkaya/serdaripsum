@@ -1,6 +1,4 @@
 # serdaripsum
-
-[![Join the chat at https://gitter.im/halilkaya/serdaripsum](https://badges.gitter.im/halilkaya/serdaripsum.svg)](https://gitter.im/halilkaya/serdaripsum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 serdaripsum, sizin için bir Serdar Ortaç şarkısı oluşturur. Kaç paragraf istediğinizi belirtin yeter.
 Fikir, [camelipsum](https://github.com/camelware/camel-ipsum-python)'u yazdiktan sonra [Liva Cengiz](https://github.com/livacengiz) ile sohbet ederken çıkmıştır. Tamamen eglence amaclidir.
 
